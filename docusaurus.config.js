@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'Bpm Genesis',
-    tagline: 'bpm superapp',
+    title: 'bpmgenesis',
+    tagline: 'BPM Superapp for Small Bussiness',
     url: 'http://bpmgenesis.com',
     baseUrl: '/',
     onBrokenLinks: 'throw',
@@ -67,12 +67,12 @@ module.exports = {
                     href: 'https://app.realmocean.com',
                     html: '<b>Log In</b>',
                     position: 'right',
-                    className: 'login-button',
+
                     target: '_self',
                     'aria-label': 'GitHub repository'
                 },
                 {
-                    href: 'https://app.realmocean.com',
+                    href: 'http://apps.bpmgenesis.com',
                     html: 'Get Started',
                     position: 'right',
                     className: 'get-started-button',
