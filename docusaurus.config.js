@@ -14,7 +14,7 @@ module.exports = {
             },
         },
         navbar: {
-            title: 'Bpmgenesis',
+            title: 'Celmino',
             logo: {
                 alt: 'Tuval Framework Logo',
                 src: 'img/tuval-logo.png',
@@ -64,7 +64,7 @@ module.exports = {
                     position: 'left'
                 },
                 {
-                    href: 'https://app.realmocean.com',
+                    href: 'http://app.celmino.com',
                     html: '<b>Log In</b>',
                     position: 'right',
 
